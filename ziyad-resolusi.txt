@@ -7,3 +7,4 @@ Resolusi ziyad
 6 . Membuat web kelas
 7 . Belajar Laravel
 8 . Belajar VUE js
+9 . Belajar Angular
